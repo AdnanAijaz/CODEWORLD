@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+  cout<<"welcome to the calculator"<<endl;
   int num1, num2, operation, A, S, M, D;
   cout << "enter two numbers:";
   cin >> num1 >> num2;
